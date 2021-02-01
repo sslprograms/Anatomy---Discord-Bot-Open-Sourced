@@ -59,4 +59,4 @@ async def cookies(ctx):
 
 
 
-bot.run('ODA1MzMxOTMzMTE0NTMxODYx.YBZVzw.yk31ZhGXwvaoX1RBWC7QsRNUZMc')
+bot.run() # Token goes here
